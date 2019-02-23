@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 0}
+  - {fileID: 2100000, guid: 4b5c32a7ac1b40e41a4f55f93588bf27, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -104,7 +104,7 @@ MonoBehaviour:
     median: {x: 0.97324896, y: -0.2297531}
     handleP: {x: -0.15133439, y: -0.06693288}
     handleN: {x: -0.12732844, y: 0.034757845}
-    controlID: 554
+    controlID: 847
     controlPID: 0
     controlNID: 0
     pointType: 0
@@ -116,7 +116,7 @@ MonoBehaviour:
     median: {x: 0.9238795, y: -0.3826835}
     handleP: {x: -0.045277033, y: 0.06833996}
     handleN: {x: -0.036544792, y: 0.08942145}
-    controlID: 555
+    controlID: 848
     controlPID: 0
     controlNID: 0
     pointType: 0
@@ -128,7 +128,7 @@ MonoBehaviour:
     median: {x: 0.7071067, y: -0.7071069}
     handleP: {x: -0.041596614, y: 0.1720967}
     handleN: {x: -0.038621485, y: 0.17507184}
-    controlID: 556
+    controlID: 849
     controlPID: 0
     controlNID: 0
     pointType: 0
@@ -140,7 +140,7 @@ MonoBehaviour:
     median: {x: -0.7071069, y: -0.70710665}
     handleP: {x: 0.039999656, y: 0.17369297}
     handleN: {x: 0.039999656, y: 0.17369297}
-    controlID: 557
+    controlID: 850
     controlPID: 0
     controlNID: 0
     pointType: 0
@@ -152,7 +152,7 @@ MonoBehaviour:
     median: {x: -0.92387956, y: -0.38268334}
     handleP: {x: 0.036544047, y: 0.08942148}
     handleN: {x: 0.045276288, y: 0.06833998}
-    controlID: 558
+    controlID: 851
     controlPID: 0
     controlNID: 0
     pointType: 0
@@ -164,7 +164,7 @@ MonoBehaviour:
     median: {x: -0.973249, y: -0.22975281}
     handleP: {x: 0.12732783, y: 0.03475789}
     handleN: {x: 0.15133375, y: -0.066932894}
-    controlID: 559
+    controlID: 852
     controlPID: 0
     controlNID: 0
     pointType: 0
@@ -176,19 +176,19 @@ MonoBehaviour:
     median: {x: -0.7129034, y: 0.70126224}
     handleP: {x: 0.11197459, y: -0.12674727}
     handleN: {x: 0.089904964, y: -0.14918326}
-    controlID: 560
+    controlID: 853
     controlPID: 0
     controlNID: 0
     pointType: 0
   - position: {x: -0.0005892217, y: -0.17430106}
     curve: 0.5
     name: point593673_7
-    selected: 1
+    selected: 0
     clockwise: 1
     median: {x: 0.0018516195, y: 0.9999983}
     handleP: {x: 0.052725468, y: -0.17439978}
     handleN: {x: -0.05334878, y: -0.17420337}
-    controlID: 561
+    controlID: 854
     controlPID: 0
     controlNID: 0
     pointType: 0
@@ -200,7 +200,7 @@ MonoBehaviour:
     median: {x: 0.71420103, y: 0.69994056}
     handleP: {x: -0.09002964, y: -0.1490949}
     handleN: {x: -0.11195276, y: -0.1267251}
-    controlID: 562
+    controlID: 855
     controlPID: 0
     controlNID: 0
     pointType: 0
@@ -818,11 +818,11 @@ MonoBehaviour:
   - {x: -0.1374547, y: -0.07274894}
   - {x: -0.14665914, y: -0.0496838}
   triangleCount: 268
-  fillType: 1
+  fillType: 0
   textureScale: 1
   textureRotation: 0
   textureOffset: {x: 0, y: 0}
-  color1: {r: 0.26664296, g: 0.5283019, b: 0.34140262, a: 1}
+  color1: {r: 0.13333334, g: 0.26666668, b: 0.17254902, a: 1}
   color2: {r: 0.13333334, g: 0.2647059, b: 0.17058824, a: 1}
   gradientScale: 1.049
   gradientRotation: 0
